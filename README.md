@@ -21,20 +21,15 @@ Você é um mago iniciante, preso em uma caverna mágica durante um teste desafi
 ## 📂 **Estrutura do Repositório**  
 - `assets/`: Mapas, fichas de personagens e outros materiais de suporte.  
 - `docs/`: Guia detalhado para mestres e jogadores.  
-- `puzzles/`: Arquivos com os desafios criptográficos.  
 - `README.md`: Você está aqui!  
 
 ---
 
-## 🚀 **Como Jogar**  
-1. Acesse a plataforma [**Owlbear Rodeo**](https://owlbear.rodeo/).  
-2. Importe o mapa e os recursos disponíveis no repositório.  
-3. Siga o manual na pasta `docs/` para configurar o jogo.  
-4. Prepare-se para enfrentar desafios e decifrar mensagens místicas!  
+
 
 ---
 
-## 🛠️ **O que você precisa**  
+## 🛠️ **O que você precisa** 
 - **Plataforma Owlbear Rodeo**: Para movimentação no mapa e organização do jogo.  
 - **Narrador (GM)**: Para guiar a história e interagir com os jogadores.  
 - **Jogadores**: Pelo menos um para assumir o papel do mago!  
@@ -42,9 +37,9 @@ Você é um mago iniciante, preso em uma caverna mágica durante um teste desafi
 ---
 
 ## 👥 **Equipe de Desenvolvimento**  
-- **Narrativa e Enigmas**: [Nome do autor]  
-- **Design e Ambientação**: [Nome do autor]  
-- **Coordenação do Projeto**: [Nome do autor]  
+- **Narrativa e Enigmas**: Arthur
+- **Design e Ambientação**: João Vitor
+- **Coordenação do Projeto**: Caiky
 
 ---
 
@@ -53,12 +48,3 @@ Este é um projeto colaborativo! Quer ajudar?
 1. Faça um fork deste repositório.  
 2. Envie suas sugestões ou materiais adicionais na pasta apropriada.  
 3. Entre em contato com a equipe para contribuir diretamente.  
-
----
-
-## 🌟 **Agradecimentos**  
-Nosso agradecimento especial a todos os que acreditaram no projeto e tornaram este RPG de mesa uma experiência mágica e educativa.  
-
----
-
-**✨ Boa sorte no Labirinto dos Espíritos! Que os
